@@ -36,7 +36,7 @@ var PanelMenuButton = GObject.registerClass(
 
             this.ui.set('icon', new St.Icon({
                 style_class: 'system-status-icon runcat-menu__icon',
-                gicon: this.iconProvider.sleeping,
+                gicon: this.iconProvider.nextSleepSprite,
             }));
 
             this.ui.set(
@@ -63,7 +63,9 @@ var PanelMenuButton = GObject.registerClass(
                     }
 
                     this.ui.get('icon').set_gicon(
-                        this.cpu.utilization > 0 ? this.iconProvider.nextSprite : this.iconProvider.sleeping,
+                        (this.cpu.utilization > 5) 
+                            ? this.iconProvider.nextRunSprite 
+                            : this.iconProvider.nextSleepSprite
                     );
 
                     const utilization = Math.ceil(this.cpu.utilization || 0);
