@@ -6,7 +6,7 @@ const Extension = ExtensionUtils.getCurrentExtension();
 const getGIcon = (name, pack = 'cat') => Gio.icon_new_for_string(`${Extension.path}/icons/${pack}/my-${name}-symbolic.svg`);
 
 var IconProvider = class IconProvider {
-    constructor(runCount = 5, sleepCount = 3) {
+    constructor(runCount = 5, sleepCount = 5) {
         this.runCount = runCount;
         this.runIndex = 0;
         this.runSprites = [...Array(runCount).keys()]

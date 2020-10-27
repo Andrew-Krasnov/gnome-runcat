@@ -11,7 +11,7 @@
    height="388"
    width="388"
    id="svg10"
-   sodipodi:docname="my-sleeping-2-symbolic.svg"
+   sodipodi:docname="my-sleeping-3-symbolic.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <defs
      id="defs14" />
@@ -24,15 +24,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="909"
-     inkscape:window-height="926"
+     inkscape:window-width="883"
+     inkscape:window-height="933"
      id="namedview12"
      showgrid="false"
      inkscape:zoom="1.6675258"
-     inkscape:cx="190.75271"
+     inkscape:cx="196.52438"
      inkscape:cy="194"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-x="155"
+     inkscape:window-y="191"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg10" />
   <metadata
@@ -54,7 +54,7 @@
      style="fill: #bebebe;"
      id="path6" />
   <path
-     d="m 197.32175,55.565131 v 12.333368 h 26.70373 L 195.30259,101.7094 v 11.79849 h 48.84986 V 101.06978 H 214.71416 L 243.14733,68.163709 V 55.565131 Z m 57.66641,67.762209 v 8.24378 l 20.332,0.002 -21.872,22.60522 v 7.88945 h 37.19845 v -8.31735 h -22.41579 l 21.64691,-21.99903 v -8.42431 z"
-     style="fill:#bebebe"
+     d="m 182.22792,41.469624 v 13.270855 h 28.73354 l -30.90618,36.380943 v 12.695318 h 52.56304 V 90.433179 H 200.94236 L 231.5368,55.025848 V 41.469624 Z m 62.04976,72.912966 v 8.87041 l 21.87748,0.002 -23.53454,24.3235 v 8.48914 h 40.02599 v -8.94957 h -24.11966 l 23.29234,-23.67123 v -9.06466 z"
+     style="fill:#bebebe;stroke-width:1.07601"
      id="path8" />
 </svg>
