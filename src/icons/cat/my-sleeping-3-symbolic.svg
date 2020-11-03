@@ -2,59 +2,20 @@
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    height="388"
    width="388"
-   id="svg10"
-   sodipodi:docname="my-sleeping-3-symbolic.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
-  <defs
-     id="defs14" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="883"
-     inkscape:window-height="933"
-     id="namedview12"
-     showgrid="false"
-     inkscape:zoom="1.6675258"
-     inkscape:cx="196.52438"
-     inkscape:cy="194"
-     inkscape:window-x="155"
-     inkscape:window-y="191"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg10" />
-  <metadata
-     id="metadata2">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>RunCat: Sleeping</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+>
   <title
-     id="title4">RunCat: Sleeping 2</title>
+     id="title4">RunCat: Sleeping 3</title>
   <path
      d="M 65.005859 161.53516 C 61.389906 161.60669 57.707875 162.27648 54.265625 163.61523 C 40.496625 168.97023 10.666016 182.73836 10.666016 225.19336 C 10.666016 267.64836 36.291531 287.13116 79.894531 300.16016 C 123.49753 313.18916 184.30969 313.18555 203.42969 313.18555 C 222.54969 313.18555 328.88144 315.45583 336.14844 307.42383 C 336.14844 307.42383 377.40039 294.74317 377.40039 263.07617 C 377.40439 237.83717 373.80934 232.06494 365.65234 223.08594 L 365.65234 223.08203 C 365.65234 223.08203 377.4042 202.74416 374.7832 189.03516 C 372.9412 179.39816 343.39258 207.625 343.39258 207.625 L 337.30078 206.06836 C 337.30078 206.06836 345.33359 177.00089 337.68359 175.08789 C 330.03359 173.17489 308.232 190.38736 296.375 206.06836 C 296.375 206.06836 275.72064 211.18786 267.30664 237.50586 C 258.89264 263.82386 221.79211 208.36341 208.78711 199.56641 C 195.78211 190.76941 180.10116 172.79287 138.41016 185.79688 C 96.719159 198.80087 83.721797 220.7847 83.716797 239.3457 C 83.716797 254.6457 86.3945 261.52925 82.1875 268.03125 C 82.1875 268.03125 34.760891 263.05964 38.587891 224.43164 C 42.414891 185.80364 70.715688 191.92106 75.304688 191.53906 C 79.893687 191.15706 89.456922 186.5668 87.544922 175.0918 C 86.110922 166.48555 75.853719 161.32056 65.005859 161.53516 z M 326.82812 191.21289 C 330.67313 191.21289 326.82812 202.74609 326.82812 202.74609 C 326.82812 202.74609 320.91497 200.67609 312.04297 202.74609 C 312.04297 202.74609 322.98312 191.21289 326.82812 191.21289 z M 361.00781 207.28516 C 361.30431 207.28662 361.5062 207.40128 361.58008 207.66016 C 362.17108 209.73116 358.53711 217.33203 358.53711 217.33203 C 356.76311 214.96603 352.21484 212.7832 352.21484 212.7832 C 352.21484 212.7832 358.9323 207.27492 361.00781 207.28516 z "
      style="fill: #bebebe;"
-     id="path6" />
+   />
   <path
      d="m 182.22792,41.469624 v 13.270855 h 28.73354 l -30.90618,36.380943 v 12.695318 h 52.56304 V 90.433179 H 200.94236 L 231.5368,55.025848 V 41.469624 Z m 62.04976,72.912966 v 8.87041 l 21.87748,0.002 -23.53454,24.3235 v 8.48914 h 40.02599 v -8.94957 h -24.11966 l 23.29234,-23.67123 v -9.06466 z"
-     style="fill:#bebebe;stroke-width:1.07601"
-     id="path8" />
+     style="fill:#bebebe;"
+   />
 </svg>
